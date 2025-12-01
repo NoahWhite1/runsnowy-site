@@ -1,2 +1,2 @@
 # runsnowy-site
-The website for the run snowy game.
+The website for the Run Snowy game.
