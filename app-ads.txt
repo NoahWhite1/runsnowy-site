@@ -1,0 +1,5 @@
+# app-ads.txt for Run Snowy
+# Add your authorized ad networks here
+
+# Vungle (required by Liftoff)
+vungle.com, 69431b1c3fa928ec5295dc35, DIRECT, c107d686becd2d77
