@@ -6,3 +6,6 @@ vungle.com, 69431b1c3fa928ec5295dc35, DIRECT, c107d686becd2d77
 
 # Meta / Audience Network
 facebook.com, 1631687671151249, DIRECT, c3e20eee3f780d68
+
+# Google AdMob
+google.com, pub-7341568797798805, DIRECT, f08c47fec0942fa0
